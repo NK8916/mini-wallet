@@ -1,16 +1,16 @@
 
-Link to Deployed Application (https://mini-wallet-mjxv.onrender.com/)
+[Link to Deployed Application](https://mini-wallet-mjxv.onrender.com/)
 
 ## ⚡ Quick Start
   ### Clone the project:
-  git clone git@github.com:NK8916/mini-wallet.git
-  cd mini-wallet
+  ```git clone git@github.com:NK8916/mini-wallet.git```
+  ```cd mini-wallet```
 
   ### Install the dependencies:
-  npm i
+  ```npm i```
 
   ### Running the application:
-  npm run start:dev
+  ```npm run start:dev```
 
 ## Tech Stack Used
   ### Nodejs With Nestjs Framework
