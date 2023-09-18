@@ -9,22 +9,21 @@
   ### Install the dependencies:
   ```npm i```
 
-  ### Running the application:
+  ### Run the application:
   ```npm run start:dev```
 
 ## Tech Stack Used
-  ### Nodejs With Nestjs Framework
-  ### Language:- Typescript
-  ### Database:- Postgresql
+  * Nodejs With Nestjs Framework
+  * Language:- Typescript
+  * Database:- Postgresql
 
 ## Envrironment Variables
-  ### DB_HOST
-  ### DB_PORT
-  ### DB_USER
-  ### DB_PASSWORD
-  ### DB_DATABASE
-  ### JWT_SECRET
+  * DB_HOST
+  * DB_PORT
+  * DB_USER
+  * DB_PASSWORD
+  * DB_DATABASE
+  * JWT_SECRET
 
-## Link to download nodejs
-  ### https://nodejs.org/en/download
+[Link to download nodejs](https://nodejs.org/en/download)
 
